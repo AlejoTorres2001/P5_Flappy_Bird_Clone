@@ -5,14 +5,15 @@
 **Controls**
 
 P1:
-#UP: SPACEBAR
+
+**UP:** SPACEBAR
 
 P2:
 
-#UP: UP ARROW
+**UP:** UP ARROW
 
 Restart:
 
-#r
+**r**
 
 Based on CodingTrain flappy bird´s Coding Challenge
